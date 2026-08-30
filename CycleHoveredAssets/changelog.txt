@@ -1,0 +1,4 @@
+CYCLE HOVERED ASSETS
+
+v1.0.1 - GitHub release
+- Added self update checker (popup when there's a new version available)
